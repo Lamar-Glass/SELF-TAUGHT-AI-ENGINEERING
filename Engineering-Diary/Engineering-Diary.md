@@ -26,3 +26,42 @@
 
 ### What I Worked On:
 - Started working on my path while waching youtube tutorials and finding free online resourses.
+- Reviewing my self taught timetable and making some changes while updating due to rapid development of new technologies
+- Tried to find research papers from a reliable source.
+
+### Challenges Faced:
+- Go challanged by new concepts and complexity of the new tools.
+- Imposter syndrome.
+- Lack of reliable research paper databases.
+  
+### Solutions:
+- Did a deep reseach on the new technologies and tools currently availabe.
+- no matter how i felt, i kept pushing on because great men also has doughts on themselves at one point.
+  
+### Things to Improve:
+- Forcus.
+- Better internet search..scrapping if that is the term.
+
+---
+
+## Date: 03-08-2025
+
+### What I Worked On:
+- Started working on my path while waching youtube tutorials and finding free online resourses.
+- Reviewing my self taught timetable and making some changes while updating due to rapid development of new technologies
+- Tried to find research papers from a reliable source.
+
+### Challenges Faced:
+- Go challanged by new concepts and complexity of the new tools.
+- Imposter syndrome.
+- Lack of reliable research paper databases.
+  
+### Solutions:
+- Did a deep reseach on the new technologies and tools currently availabe.
+- no matter how i felt, i kept pushing on because great men also has doughts on themselves at one point.
+  
+### Things to Improve:
+- Forcus.
+- Better internet search..scrapping if that is the term.
+
+---
