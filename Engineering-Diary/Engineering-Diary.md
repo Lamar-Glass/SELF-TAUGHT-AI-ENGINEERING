@@ -72,20 +72,17 @@
 ## 📅 Date: Month Date, Year
 
 ### 🔧 What I Did Today:
-- [Task 1: e.g., Set up a new tool, finished a tutorial, wrote a script]
-- [Task 2]
-- [Task 3]
+- I watched some tutorials on python to continue learning the foundermnetals of this self taught course of mine.
+- I prepared for a meeting with the studnet council of constructors academy, hoping my laptop wont crash during the video call
 
 ### ⚠️ Challenges:
-- [Something that went wrong, didn't make sense, or slowed you down]
-- [Any emotional or technical blockers]
+- My laptop's cooling fans went crazy, its like i am on an  airfield or airport.
+- I wish i had a better descktop set up like those 'day in the life of a SWE..' videos on youtube.
 
 ### 💡 How I Handled It:
-- [Your approach to solving or managing the challenge]
-- [Workaround, mindset shift, or support you leaned on]
+- I will just keep pushing, i cant stop reminding myself that i am in a better situation than most self taught students out there.
 
 ### 📈 Things to Work On:
-- [A skill, habit, or system you want to improve]
-- [A technical or personal goal for tomorrow]
-
+- Machine resource optimisation
+- Self reflect.
 ---
