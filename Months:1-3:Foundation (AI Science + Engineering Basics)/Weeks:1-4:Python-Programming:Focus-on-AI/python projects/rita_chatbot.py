@@ -6,7 +6,7 @@ class RitaChatbot:
     def __init__(self):
         self.name = "Rita"
         self.greetings = [
-            "Hello there! How can I help you today?",
+            "Hello there bro! How can I help you today?",
             "Hi! I'm Rita. What's on your mind?",
             "Hey! Ready to chat?",
             "Hi there! What would you like to talk about?"
@@ -28,7 +28,7 @@ class RitaChatbot:
         user_input = user_input.lower()
 
         if "how are you" in user_input:
-            return "I'm just a bunch of Python code, but I'm doing great! How about you?"
+            return "I'm just a bunch of Python code, but I'm doing great! How about you my guy?"
         elif "your name" in user_input:
             return f"My name is {self.name}."
         elif "bye" in user_input or "goodbye" in user_input:
